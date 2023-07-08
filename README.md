@@ -9,7 +9,7 @@ The team was awarded 4th (20 teams) place and won 1000 euros.
 ### The team:
 
 The hackthon was a one-day event. There were 6 of us taking part, including 2 coders.
-[The Team ]https://www.linkedin.com/feed/update/urn:li:activity:7048696664437514240/
+[The Team ](https://www.linkedin.com/feed/update/urn:li:activity:7048696664437514240/)
 
 ### The goal:
 
